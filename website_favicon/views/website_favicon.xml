@@ -4,13 +4,13 @@
         <template id="website_favicon_layout" inherit_id="website.layout">
             <xpath expr="//head//title" position="after">
                 <link rel="shortcut icon" href="/website_favicon/static/src/img/favicon.ico" type="image/x-icon"/>
-                <link rel="apple-touch-icon" sizes="180x180" href="/website_favicon/static/src/img/apple-touch-icon.png">
-                <link rel="icon" type="image/png" sizes="32x32" href="/website_favicon/static/src/img/favicon-32x32.png">
-                <link rel="icon" type="image/png" sizes="16x16" href="/website_favicon/static/src/img/favicon-16x16.png">
-                <link rel="manifest" href="/website_favicon/static/src/img/site.webmanifest">
-                <link rel="mask-icon" href="/website_favicon/static/src/img/safari-pinned-tab.svg" color="#ff0000">
-                <meta name="msapplication-TileColor" content="#ffc40d">
-                <meta name="theme-color" content="#ffffff">
+                <link rel="apple-touch-icon" sizes="180x180" href="/website_favicon/static/src/img/apple-touch-icon.png"/>
+                <link rel="icon" type="image/png" sizes="32x32" href="/website_favicon/static/src/img/favicon-32x32.png"/>
+                <link rel="icon" type="image/png" sizes="16x16" href="/website_favicon/static/src/img/favicon-16x16.png"/>
+                <link rel="manifest" href="/website_favicon/static/src/img/site.webmanifest"/>
+                <link rel="mask-icon" href="/website_favicon/static/src/img/safari-pinned-tab.svg" color="#ff0000"/>
+                <meta name="msapplication-TileColor" content="#ffc40d"/>
+                <meta name="theme-color" content="#ffffff"/>
             </xpath>
         </template>
     </data>
