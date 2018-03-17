@@ -1,6 +1,6 @@
-=====================
-Icon for Odoo website
-=====================
+===================================
+Iconos para el sitio Odoo de Valsol
+===================================
 
 This module allows to put a custom icon in website/e-commerce part of Odoo.
 
@@ -33,3 +33,4 @@ Contributors
 ------------
 
 * Pedro M. Baeza <pedro.baeza@gmail.com>
+* gb
