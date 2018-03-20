@@ -9,7 +9,7 @@
     'website': 'https://www.valsol.com',
     'depends': ['website'],
     'data': [
-        'views/website_favicon.xml',
+        'views/website_valsol_favicon.xml',
     ],
     'installable': True,
 }
